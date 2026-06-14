@@ -7,7 +7,7 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCKzuEFXUugctLPPy1D");
+    window.open("https://www.facebook.com/profile.php?id=61588943410089");
 }
 
 function openFacebookPage() {
